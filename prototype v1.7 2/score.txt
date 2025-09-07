@@ -1,0 +1,5 @@
+freddy;5
+valentin;8
+valentin;8
+valentin;10
+denisa<3;14
